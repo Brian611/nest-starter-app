@@ -1,6 +1,6 @@
 ## Description
 
-NestJs app with sql server database, swagger api and typeorm
+NestJs app with sql server database, swagger api, typeorm, validation pipes set up globally for DTO's
 
 ## Installation
 
