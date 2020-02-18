@@ -1,6 +1,6 @@
 ## Description
 
-NestJs app with sql server database and swagger api
+NestJs app with sql server database, swagger api and typeorm
 
 ## Installation
 
